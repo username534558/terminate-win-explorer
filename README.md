@@ -1,2 +1,2 @@
 # terminate-win-explorer
-Terminates Windows Explorer
+Leave both of the files in the ZIP file
